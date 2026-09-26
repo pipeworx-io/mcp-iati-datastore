@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-iati-datastore",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "International aid activities (IATI Datastore) — search every published aid and development activity worldwide by country, sector, donor or keyword, and read the individual commitments and disbursements behind it.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1ba71c7dda4b2113872e74a0bb6b5f141d73229b5f42e2dbae189cd015bb8e35",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-abba291233f2f973566395f4e1b6eeca5c9a667846012d1549b037fc1ddda94e",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
